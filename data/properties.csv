@@ -1,0 +1,19 @@
+property_id,property_name,market,submarket,asset_stage,housing_type,units,year_built,regional_manager,strategy_lane
+MF001,Cedar Vista,San Antonio,Northwest,Stabilized,Affordable,318,2018,Central Region,Protect occupancy and harvest rent growth
+MF002,Mission Ridge,San Antonio,Medical Center,Lease-up,Senior,156,2021,South Region,Accelerate absorption while limiting concession burn
+MF003,Parkline,Austin,Round Rock,Turnaround,Market-rate,184,2020,Southwest Region,"Course-correct traffic, pricing, and exposure"
+MF004,Alta Quarry,Austin,South Austin,Stabilized,Market-rate,184,2018,North Region,Protect occupancy and harvest rent growth
+MF005,Live Oak Crossing,Irving,Las Colinas,Lease-up,Affordable,318,2018,Central Region,Accelerate absorption while limiting concession burn
+MF006,Riverbend,Dallas Fort Worth,Arlington,Turnaround,Senior,276,2023,South Region,"Course-correct traffic, pricing, and exposure"
+MF007,Canyon Commons,Houston,Katy,Stabilized,Market-rate,156,2017,Southwest Region,Protect occupancy and harvest rent growth
+MF008,Bluebonnet Flats,Phoenix,Mesa,Lease-up,Market-rate,156,2020,North Region,Accelerate absorption while limiting concession burn
+MF009,Juniper Yard,San Antonio,Northwest,Turnaround,Affordable,184,2017,Central Region,"Course-correct traffic, pricing, and exposure"
+MF010,Lantana Square,San Antonio,Medical Center,Stabilized,Senior,276,2020,South Region,Protect occupancy and harvest rent growth
+MF011,Mesa Verde,Austin,Round Rock,Stabilized,Market-rate,318,2023,Southwest Region,Protect occupancy and harvest rent growth
+MF012,The Alamo Lofts,Austin,South Austin,Turnaround,Market-rate,184,2024,North Region,"Course-correct traffic, pricing, and exposure"
+MF013,Mariposa Commons,Irving,Las Colinas,Stabilized,Affordable,276,2021,Central Region,Protect occupancy and harvest rent growth
+MF014,Silverleaf,Dallas Fort Worth,Arlington,Stabilized,Senior,364,2017,South Region,Protect occupancy and harvest rent growth
+MF015,Southtown Station,Houston,Katy,Lease-up,Market-rate,364,2019,Southwest Region,Accelerate absorption while limiting concession burn
+MF016,Avion Ridge,Phoenix,Mesa,Stabilized,Market-rate,318,2023,North Region,Protect occupancy and harvest rent growth
+MF017,Hill Country Villas,San Antonio,Northwest,Stabilized,Affordable,212,2021,Central Region,Protect occupancy and harvest rent growth
+MF018,Catalina Pointe,San Antonio,Medical Center,Lease-up,Senior,184,2020,South Region,Accelerate absorption while limiting concession burn

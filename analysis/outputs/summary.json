@@ -1,0 +1,18 @@
+{
+  "portfolio": {
+    "properties": 18,
+    "units": 4428,
+    "occupancy": 0.879,
+    "weekly_noi_variance_pct": -0.136,
+    "leaseup_assets": 5,
+    "pricing_approvals": 2,
+    "pricing_reviews": 16,
+    "watchlist_assets": 4,
+    "top_watch_asset": "Live Oak Crossing",
+    "top_watch_reason": "Run regional pricing review with comps, concessions, and weekly traffic source checks."
+  },
+  "method": {
+    "pricing_score": "Rent change responds to occupancy gap, traffic trend, comp rent position, concessions, and 60 day exposure.",
+    "watchlist_score": "Priority rises with target occupancy gap, negative NOI variance, exposure, concessions, and falling traffic."
+  }
+}

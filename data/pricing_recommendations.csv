@@ -1,0 +1,19 @@
+property_id,property_name,market,asset_stage,unit_type,current_rent,comp_rent,recommended_rent,recommended_change_pct,confidence,approval_lane,absorption_risk_score,expected_monthly_noi_lift,rationale
+MF006,Riverbend,Dallas Fort Worth,Turnaround,1BR,1968.0,2063.0,1944.0,-0.0121,0.722,Approve,58.0,-618.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF012,The Alamo Lofts,Austin,Turnaround,1BR,2033.0,2145.0,1979.0,-0.0264,0.743,Approve,56.1,-855.0,Reduce friction where exposure and velocity point to absorption risk.
+MF014,Silverleaf,Dallas Fort Worth,Stabilized,1BR,1851.0,1844.0,1878.0,0.0148,0.658,Regional review,47.6,536.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF011,Mesa Verde,Austin,Stabilized,Studio,1726.0,1745.0,1712.0,-0.008,0.681,Regional review,49.0,-153.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF001,Cedar Vista,San Antonio,Stabilized,1BR,1843.0,1824.0,1828.0,-0.008,0.654,Regional review,52.2,-170.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF016,Avion Ridge,Phoenix,Stabilized,Studio,1929.0,1937.0,1913.0,-0.0085,0.659,Regional review,53.3,-180.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF010,Lantana Square,San Antonio,Stabilized,2BR,1613.0,1640.0,1600.0,-0.008,0.711,Regional review,40.8,-181.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF004,Alta Quarry,Austin,Stabilized,3BR,2203.0,2232.0,2185.0,-0.008,0.692,Regional review,41.2,-194.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF013,Mariposa Commons,Irving,Stabilized,2BR,2115.0,2173.0,2098.0,-0.008,0.705,Regional review,48.1,-249.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF003,Parkline,Austin,Turnaround,3BR,1990.0,2009.0,1971.0,-0.0097,0.694,Regional review,53.0,-295.0,Hold near current rent and monitor conversion before the next pricing cycle.
+MF007,Canyon Commons,Houston,Stabilized,3BR,1787.0,1791.0,1748.0,-0.022,0.643,Regional review,56.0,-295.0,Reduce friction where exposure and velocity point to absorption risk.
+MF017,Hill Country Villas,San Antonio,Stabilized,Studio,1790.0,1856.0,1709.0,-0.045,0.666,Regional review,63.7,-471.0,Reduce friction where exposure and velocity point to absorption risk.
+MF009,Juniper Yard,San Antonio,Turnaround,Studio,1557.0,1596.0,1523.0,-0.0221,0.702,Regional review,58.4,-551.0,Reduce friction where exposure and velocity point to absorption risk.
+MF008,Bluebonnet Flats,Phoenix,Lease-up,3BR,1602.0,1596.0,1530.0,-0.045,0.654,Regional review,73.2,-1538.0,Reduce friction where exposure and velocity point to absorption risk.
+MF002,Mission Ridge,San Antonio,Lease-up,2BR,1517.0,1535.0,1452.0,-0.0428,0.694,Regional review,61.0,-1547.0,Reduce friction where exposure and velocity point to absorption risk.
+MF018,Catalina Pointe,San Antonio,Lease-up,1BR,1918.0,1932.0,1832.0,-0.045,0.679,Regional review,70.0,-2366.0,Reduce friction where exposure and velocity point to absorption risk.
+MF005,Live Oak Crossing,Irving,Lease-up,3BR,1886.0,1962.0,1801.0,-0.045,0.69,Hold for pricing call,77.2,-3834.0,Reduce friction where exposure and velocity point to absorption risk.
+MF015,Southtown Station,Houston,Lease-up,2BR,1862.0,1927.0,1778.0,-0.045,0.702,Regional review,71.3,-4412.0,Reduce friction where exposure and velocity point to absorption risk.

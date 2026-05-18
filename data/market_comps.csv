@@ -1,0 +1,289 @@
+week_start,property_id,property_name,market,submarket,comp_effective_rent,subject_effective_rent,rent_position_vs_comp_pct,comp_occupancy,submarket_traffic_index,new_supply_units
+2026-01-04,MF001,Cedar Vista,San Antonio,Northwest,1895.0,1801.0,-0.0493,0.9525,100.2,31
+2026-01-11,MF001,Cedar Vista,San Antonio,Northwest,1853.0,1807.0,-0.0251,0.9253,100.8,59
+2026-01-18,MF001,Cedar Vista,San Antonio,Northwest,1899.0,1806.0,-0.0494,0.9428,99.1,115
+2026-01-25,MF001,Cedar Vista,San Antonio,Northwest,1761.0,1815.0,0.0306,0.951,98.4,210
+2026-02-01,MF001,Cedar Vista,San Antonio,Northwest,1778.0,1809.0,0.0173,0.9561,94.4,249
+2026-02-08,MF001,Cedar Vista,San Antonio,Northwest,1852.0,1824.0,-0.0152,0.9452,91.5,25
+2026-02-15,MF001,Cedar Vista,San Antonio,Northwest,1843.0,1824.0,-0.01,0.9832,90.1,229
+2026-02-22,MF001,Cedar Vista,San Antonio,Northwest,1864.0,1816.0,-0.0258,0.9438,89.1,37
+2026-03-01,MF001,Cedar Vista,San Antonio,Northwest,1896.0,1802.0,-0.0497,0.9477,86.2,123
+2026-03-08,MF001,Cedar Vista,San Antonio,Northwest,1826.0,1837.0,0.0061,0.9425,105.2,126
+2026-03-15,MF001,Cedar Vista,San Antonio,Northwest,1826.0,1816.0,-0.0053,0.985,90.1,208
+2026-03-22,MF001,Cedar Vista,San Antonio,Northwest,1891.0,1840.0,-0.0266,0.9551,103.6,58
+2026-03-29,MF001,Cedar Vista,San Antonio,Northwest,1857.0,1819.0,-0.0202,0.985,88.7,192
+2026-04-05,MF001,Cedar Vista,San Antonio,Northwest,1962.0,1838.0,-0.063,0.9654,104.2,109
+2026-04-12,MF001,Cedar Vista,San Antonio,Northwest,1790.0,1819.0,0.0161,0.9376,90.3,165
+2026-04-19,MF001,Cedar Vista,San Antonio,Northwest,1824.0,1837.0,0.0068,0.9665,96.7,123
+2026-01-04,MF002,Mission Ridge,San Antonio,Medical Center,1479.0,1409.0,-0.0474,0.7493,106.3,243
+2026-01-11,MF002,Mission Ridge,San Antonio,Medical Center,1488.0,1412.0,-0.0514,0.7692,107.9,194
+2026-01-18,MF002,Mission Ridge,San Antonio,Medical Center,1474.0,1407.0,-0.0455,0.72,108.8,242
+2026-01-25,MF002,Mission Ridge,San Antonio,Medical Center,1500.0,1427.0,-0.0487,0.7958,93.7,494
+2026-02-01,MF002,Mission Ridge,San Antonio,Medical Center,1528.0,1415.0,-0.0738,0.7316,111.7,313
+2026-02-08,MF002,Mission Ridge,San Antonio,Medical Center,1465.0,1415.0,-0.0336,0.7942,105.0,228
+2026-02-15,MF002,Mission Ridge,San Antonio,Medical Center,1487.0,1422.0,-0.0439,0.7893,94.4,101
+2026-02-22,MF002,Mission Ridge,San Antonio,Medical Center,1567.0,1430.0,-0.0869,0.8082,96.0,450
+2026-03-01,MF002,Mission Ridge,San Antonio,Medical Center,1573.0,1431.0,-0.09,0.7754,111.9,285
+2026-03-08,MF002,Mission Ridge,San Antonio,Medical Center,1567.0,1422.0,-0.0928,0.7334,94.5,256
+2026-03-15,MF002,Mission Ridge,San Antonio,Medical Center,1523.0,1427.0,-0.0634,0.7885,97.9,259
+2026-03-22,MF002,Mission Ridge,San Antonio,Medical Center,1570.0,1435.0,-0.0863,0.8124,113.6,326
+2026-03-29,MF002,Mission Ridge,San Antonio,Medical Center,1583.0,1431.0,-0.0962,0.7789,110.2,296
+2026-04-05,MF002,Mission Ridge,San Antonio,Medical Center,1463.0,1422.0,-0.0278,0.8056,101.7,198
+2026-04-12,MF002,Mission Ridge,San Antonio,Medical Center,1499.0,1449.0,-0.0336,0.7668,110.1,192
+2026-04-19,MF002,Mission Ridge,San Antonio,Medical Center,1535.0,1453.0,-0.0534,0.7663,99.3,490
+2026-01-04,MF003,Parkline,Austin,Round Rock,1901.0,1897.0,-0.0017,0.9237,102.6,294
+2026-01-11,MF003,Parkline,Austin,Round Rock,1904.0,1902.0,-0.0013,0.9128,108.2,429
+2026-01-18,MF003,Parkline,Austin,Round Rock,1952.0,1910.0,-0.0215,0.9173,103.2,196
+2026-01-25,MF003,Parkline,Austin,Round Rock,1931.0,1900.0,-0.016,0.8681,101.1,87
+2026-02-01,MF003,Parkline,Austin,Round Rock,1909.0,1917.0,0.0039,0.931,108.0,458
+2026-02-08,MF003,Parkline,Austin,Round Rock,1988.0,1903.0,-0.0429,0.8954,107.2,476
+2026-02-15,MF003,Parkline,Austin,Round Rock,1987.0,1932.0,-0.0276,0.9262,103.7,186
+2026-02-22,MF003,Parkline,Austin,Round Rock,2068.0,1934.0,-0.0647,0.8817,100.8,222
+2026-03-01,MF003,Parkline,Austin,Round Rock,1952.0,1935.0,-0.0087,0.8835,119.1,465
+2026-03-08,MF003,Parkline,Austin,Round Rock,2004.0,1921.0,-0.0416,0.8756,105.0,233
+2026-03-15,MF003,Parkline,Austin,Round Rock,2005.0,1932.0,-0.0365,0.9351,112.1,330
+2026-03-22,MF003,Parkline,Austin,Round Rock,2043.0,1947.0,-0.0472,0.8744,100.6,333
+2026-03-29,MF003,Parkline,Austin,Round Rock,1970.0,1941.0,-0.0145,0.8966,105.8,504
+2026-04-05,MF003,Parkline,Austin,Round Rock,2024.0,1953.0,-0.0349,0.8655,109.4,239
+2026-04-12,MF003,Parkline,Austin,Round Rock,2006.0,1960.0,-0.0227,0.897,115.9,531
+2026-04-19,MF003,Parkline,Austin,Round Rock,2009.0,1931.0,-0.0388,0.9113,104.8,399
+2026-01-04,MF004,Alta Quarry,Austin,South Austin,2109.0,2120.0,0.0052,0.9117,115.5,202
+2026-01-11,MF004,Alta Quarry,Austin,South Austin,2101.0,2136.0,0.0166,0.971,101.8,184
+2026-01-18,MF004,Alta Quarry,Austin,South Austin,2128.0,2129.0,0.0006,0.985,108.9,130
+2026-01-25,MF004,Alta Quarry,Austin,South Austin,2224.0,2120.0,-0.0468,0.985,113.9,199
+2026-02-01,MF004,Alta Quarry,Austin,South Austin,2206.0,2136.0,-0.0314,0.9452,111.1,28
+2026-02-08,MF004,Alta Quarry,Austin,South Austin,2267.0,2138.0,-0.057,0.985,99.8,229
+2026-02-15,MF004,Alta Quarry,Austin,South Austin,2112.0,2152.0,0.0187,0.9669,110.2,83
+2026-02-22,MF004,Alta Quarry,Austin,South Austin,2218.0,2145.0,-0.033,0.935,94.0,29
+2026-03-01,MF004,Alta Quarry,Austin,South Austin,2257.0,2151.0,-0.0471,0.985,114.6,87
+2026-03-08,MF004,Alta Quarry,Austin,South Austin,2262.0,2168.0,-0.0415,0.9418,97.9,173
+2026-03-15,MF004,Alta Quarry,Austin,South Austin,2216.0,2152.0,-0.029,0.9617,115.6,257
+2026-03-22,MF004,Alta Quarry,Austin,South Austin,2088.0,2144.0,0.027,0.9546,101.3,162
+2026-03-29,MF004,Alta Quarry,Austin,South Austin,2222.0,2126.0,-0.0432,0.948,113.7,97
+2026-04-05,MF004,Alta Quarry,Austin,South Austin,2280.0,2162.0,-0.052,0.9407,112.9,123
+2026-04-12,MF004,Alta Quarry,Austin,South Austin,2214.0,2184.0,-0.0135,0.9764,101.6,51
+2026-04-19,MF004,Alta Quarry,Austin,South Austin,2232.0,2198.0,-0.0153,0.9047,104.1,223
+2026-01-04,MF005,Live Oak Crossing,Irving,Las Colinas,1837.0,1762.0,-0.0406,0.743,108.2,222
+2026-01-11,MF005,Live Oak Crossing,Irving,Las Colinas,1920.0,1773.0,-0.0766,0.7682,105.1,119
+2026-01-18,MF005,Live Oak Crossing,Irving,Las Colinas,1913.0,1761.0,-0.0797,0.7433,107.3,101
+2026-01-25,MF005,Live Oak Crossing,Irving,Las Colinas,1881.0,1762.0,-0.0631,0.7819,110.5,113
+2026-02-01,MF005,Live Oak Crossing,Irving,Las Colinas,1908.0,1785.0,-0.0645,0.8017,113.2,121
+2026-02-08,MF005,Live Oak Crossing,Irving,Las Colinas,1859.0,1775.0,-0.0452,0.7968,110.8,455
+2026-02-15,MF005,Live Oak Crossing,Irving,Las Colinas,1905.0,1774.0,-0.0686,0.7708,106.4,478
+2026-02-22,MF005,Live Oak Crossing,Irving,Las Colinas,1956.0,1781.0,-0.0895,0.8003,106.1,313
+2026-03-01,MF005,Live Oak Crossing,Irving,Las Colinas,1870.0,1793.0,-0.0411,0.7857,103.6,159
+2026-03-08,MF005,Live Oak Crossing,Irving,Las Colinas,1824.0,1781.0,-0.0239,0.7755,98.5,413
+2026-03-15,MF005,Live Oak Crossing,Irving,Las Colinas,1888.0,1800.0,-0.0466,0.7968,110.7,388
+2026-03-22,MF005,Live Oak Crossing,Irving,Las Colinas,1830.0,1790.0,-0.0219,0.7554,111.4,127
+2026-03-29,MF005,Live Oak Crossing,Irving,Las Colinas,1884.0,1777.0,-0.0572,0.7733,107.6,189
+2026-04-05,MF005,Live Oak Crossing,Irving,Las Colinas,1885.0,1813.0,-0.0385,0.7578,104.1,524
+2026-04-12,MF005,Live Oak Crossing,Irving,Las Colinas,2002.0,1807.0,-0.0974,0.754,102.1,515
+2026-04-19,MF005,Live Oak Crossing,Irving,Las Colinas,1962.0,1805.0,-0.0801,0.7299,98.6,462
+2026-01-04,MF006,Riverbend,Dallas Fort Worth,Arlington,1873.0,1867.0,-0.0033,0.8863,101.7,366
+2026-01-11,MF006,Riverbend,Dallas Fort Worth,Arlington,1947.0,1871.0,-0.0394,0.8697,108.9,330
+2026-01-18,MF006,Riverbend,Dallas Fort Worth,Arlington,1961.0,1884.0,-0.0393,0.9242,90.1,242
+2026-01-25,MF006,Riverbend,Dallas Fort Worth,Arlington,2023.0,1868.0,-0.0767,0.8817,94.1,263
+2026-02-01,MF006,Riverbend,Dallas Fort Worth,Arlington,2033.0,1871.0,-0.0797,0.902,91.3,398
+2026-02-08,MF006,Riverbend,Dallas Fort Worth,Arlington,1992.0,1887.0,-0.0524,0.8757,97.2,286
+2026-02-15,MF006,Riverbend,Dallas Fort Worth,Arlington,2020.0,1884.0,-0.0675,0.9222,97.1,138
+2026-02-22,MF006,Riverbend,Dallas Fort Worth,Arlington,1918.0,1894.0,-0.0126,0.9226,87.6,166
+2026-03-01,MF006,Riverbend,Dallas Fort Worth,Arlington,2016.0,1909.0,-0.0529,0.9341,105.6,525
+2026-03-08,MF006,Riverbend,Dallas Fort Worth,Arlington,2026.0,1907.0,-0.0584,0.8999,98.4,246
+2026-03-15,MF006,Riverbend,Dallas Fort Worth,Arlington,1934.0,1896.0,-0.0197,0.8722,97.7,318
+2026-03-22,MF006,Riverbend,Dallas Fort Worth,Arlington,1932.0,1905.0,-0.0137,0.9102,98.9,211
+2026-03-29,MF006,Riverbend,Dallas Fort Worth,Arlington,1947.0,1898.0,-0.0254,0.9038,87.9,477
+2026-04-05,MF006,Riverbend,Dallas Fort Worth,Arlington,2050.0,1913.0,-0.0669,0.8668,97.4,397
+2026-04-12,MF006,Riverbend,Dallas Fort Worth,Arlington,1924.0,1896.0,-0.0144,0.8477,97.3,145
+2026-04-19,MF006,Riverbend,Dallas Fort Worth,Arlington,2063.0,1920.0,-0.0695,0.8646,89.1,261
+2026-01-04,MF007,Canyon Commons,Houston,Katy,1819.0,1738.0,-0.0447,0.9615,97.2,157
+2026-01-11,MF007,Canyon Commons,Houston,Katy,1850.0,1733.0,-0.0629,0.9621,92.6,142
+2026-01-18,MF007,Canyon Commons,Houston,Katy,1745.0,1745.0,-0.0002,0.9486,107.1,148
+2026-01-25,MF007,Canyon Commons,Houston,Katy,1832.0,1750.0,-0.0446,0.985,101.3,193
+2026-02-01,MF007,Canyon Commons,Houston,Katy,1822.0,1768.0,-0.0299,0.9603,105.8,241
+2026-02-08,MF007,Canyon Commons,Houston,Katy,1830.0,1762.0,-0.0371,0.985,102.8,186
+2026-02-15,MF007,Canyon Commons,Houston,Katy,1834.0,1749.0,-0.0459,0.9537,90.8,182
+2026-02-22,MF007,Canyon Commons,Houston,Katy,1795.0,1758.0,-0.0205,0.985,104.0,53
+2026-03-01,MF007,Canyon Commons,Houston,Katy,1872.0,1777.0,-0.0506,0.9612,109.5,231
+2026-03-08,MF007,Canyon Commons,Houston,Katy,1862.0,1761.0,-0.0542,0.9396,109.2,259
+2026-03-15,MF007,Canyon Commons,Houston,Katy,1786.0,1745.0,-0.0231,0.984,107.6,132
+2026-03-22,MF007,Canyon Commons,Houston,Katy,1859.0,1765.0,-0.0508,0.9464,90.0,181
+2026-03-29,MF007,Canyon Commons,Houston,Katy,1723.0,1758.0,0.0204,0.9172,95.1,117
+2026-04-05,MF007,Canyon Commons,Houston,Katy,1781.0,1770.0,-0.0061,0.9533,98.8,149
+2026-04-12,MF007,Canyon Commons,Houston,Katy,1803.0,1757.0,-0.0256,0.9296,95.5,145
+2026-04-19,MF007,Canyon Commons,Houston,Katy,1791.0,1783.0,-0.0048,0.9497,105.2,159
+2026-01-04,MF008,Bluebonnet Flats,Phoenix,Mesa,1588.0,1516.0,-0.0453,0.7741,99.3,502
+2026-01-11,MF008,Bluebonnet Flats,Phoenix,Mesa,1681.0,1518.0,-0.0968,0.7492,105.5,275
+2026-01-18,MF008,Bluebonnet Flats,Phoenix,Mesa,1547.0,1513.0,-0.0221,0.762,99.3,389
+2026-01-25,MF008,Bluebonnet Flats,Phoenix,Mesa,1659.0,1527.0,-0.0793,0.7981,94.4,483
+2026-02-01,MF008,Bluebonnet Flats,Phoenix,Mesa,1600.0,1522.0,-0.0485,0.7862,105.0,268
+2026-02-08,MF008,Bluebonnet Flats,Phoenix,Mesa,1575.0,1517.0,-0.0368,0.7514,90.8,287
+2026-02-15,MF008,Bluebonnet Flats,Phoenix,Mesa,1687.0,1527.0,-0.0952,0.7541,109.9,177
+2026-02-22,MF008,Bluebonnet Flats,Phoenix,Mesa,1588.0,1524.0,-0.0407,0.7524,109.3,294
+2026-03-01,MF008,Bluebonnet Flats,Phoenix,Mesa,1598.0,1544.0,-0.0342,0.7643,94.3,342
+2026-03-08,MF008,Bluebonnet Flats,Phoenix,Mesa,1578.0,1524.0,-0.034,0.7891,111.8,520
+2026-03-15,MF008,Bluebonnet Flats,Phoenix,Mesa,1638.0,1528.0,-0.0671,0.8013,110.0,383
+2026-03-22,MF008,Bluebonnet Flats,Phoenix,Mesa,1641.0,1539.0,-0.0619,0.7367,103.3,196
+2026-03-29,MF008,Bluebonnet Flats,Phoenix,Mesa,1629.0,1554.0,-0.0464,0.7562,99.9,373
+2026-04-05,MF008,Bluebonnet Flats,Phoenix,Mesa,1615.0,1558.0,-0.0352,0.8024,104.7,209
+2026-04-12,MF008,Bluebonnet Flats,Phoenix,Mesa,1704.0,1543.0,-0.0944,0.7786,101.4,257
+2026-04-19,MF008,Bluebonnet Flats,Phoenix,Mesa,1596.0,1524.0,-0.045,0.7808,107.0,287
+2026-01-04,MF009,Juniper Yard,San Antonio,Northwest,1590.0,1503.0,-0.0549,0.8743,86.5,82
+2026-01-11,MF009,Juniper Yard,San Antonio,Northwest,1539.0,1499.0,-0.0262,0.8741,92.9,119
+2026-01-18,MF009,Juniper Yard,San Antonio,Northwest,1497.0,1510.0,0.0084,0.8955,89.7,368
+2026-01-25,MF009,Juniper Yard,San Antonio,Northwest,1507.0,1505.0,-0.0014,0.8912,105.8,172
+2026-02-01,MF009,Juniper Yard,San Antonio,Northwest,1576.0,1497.0,-0.05,0.8974,99.7,333
+2026-02-08,MF009,Juniper Yard,San Antonio,Northwest,1596.0,1508.0,-0.0554,0.9373,85.7,536
+2026-02-15,MF009,Juniper Yard,San Antonio,Northwest,1597.0,1514.0,-0.0519,0.8923,98.9,100
+2026-02-22,MF009,Juniper Yard,San Antonio,Northwest,1554.0,1513.0,-0.0265,0.9373,97.5,310
+2026-03-01,MF009,Juniper Yard,San Antonio,Northwest,1559.0,1509.0,-0.0318,0.9083,91.3,218
+2026-03-08,MF009,Juniper Yard,San Antonio,Northwest,1552.0,1515.0,-0.0241,0.8901,98.7,279
+2026-03-15,MF009,Juniper Yard,San Antonio,Northwest,1558.0,1531.0,-0.0177,0.8775,90.0,477
+2026-03-22,MF009,Juniper Yard,San Antonio,Northwest,1533.0,1523.0,-0.0062,0.8707,91.0,164
+2026-03-29,MF009,Juniper Yard,San Antonio,Northwest,1557.0,1516.0,-0.0267,0.8952,85.2,245
+2026-04-05,MF009,Juniper Yard,San Antonio,Northwest,1563.0,1531.0,-0.0204,0.8557,96.4,157
+2026-04-12,MF009,Juniper Yard,San Antonio,Northwest,1652.0,1512.0,-0.0847,0.8571,103.1,426
+2026-04-19,MF009,Juniper Yard,San Antonio,Northwest,1596.0,1508.0,-0.0549,0.852,87.2,175
+2026-01-04,MF010,Lantana Square,San Antonio,Medical Center,1644.0,1578.0,-0.04,0.9586,92.4,87
+2026-01-11,MF010,Lantana Square,San Antonio,Medical Center,1651.0,1576.0,-0.0455,0.9796,100.3,200
+2026-01-18,MF010,Lantana Square,San Antonio,Medical Center,1597.0,1582.0,-0.0093,0.985,110.0,139
+2026-01-25,MF010,Lantana Square,San Antonio,Medical Center,1557.0,1577.0,0.013,0.9523,113.8,123
+2026-02-01,MF010,Lantana Square,San Antonio,Medical Center,1644.0,1581.0,-0.0385,0.985,100.9,42
+2026-02-08,MF010,Lantana Square,San Antonio,Medical Center,1549.0,1575.0,0.0165,0.9695,93.4,108
+2026-02-15,MF010,Lantana Square,San Antonio,Medical Center,1684.0,1598.0,-0.0512,0.9648,101.2,72
+2026-02-22,MF010,Lantana Square,San Antonio,Medical Center,1691.0,1602.0,-0.0526,0.9477,110.5,230
+2026-03-01,MF010,Lantana Square,San Antonio,Medical Center,1546.0,1596.0,0.0322,0.9435,98.3,113
+2026-03-08,MF010,Lantana Square,San Antonio,Medical Center,1581.0,1592.0,0.0068,0.985,108.6,122
+2026-03-15,MF010,Lantana Square,San Antonio,Medical Center,1640.0,1592.0,-0.0289,0.9434,101.1,249
+2026-03-22,MF010,Lantana Square,San Antonio,Medical Center,1597.0,1599.0,0.0016,0.9482,109.9,82
+2026-03-29,MF010,Lantana Square,San Antonio,Medical Center,1634.0,1607.0,-0.0166,0.9199,110.8,60
+2026-04-05,MF010,Lantana Square,San Antonio,Medical Center,1687.0,1594.0,-0.0546,0.9075,109.5,191
+2026-04-12,MF010,Lantana Square,San Antonio,Medical Center,1628.0,1622.0,-0.0036,0.9766,110.9,206
+2026-04-19,MF010,Lantana Square,San Antonio,Medical Center,1640.0,1592.0,-0.0291,0.9554,94.5,244
+2026-01-04,MF011,Mesa Verde,Austin,Round Rock,1640.0,1687.0,0.0284,0.9761,113.4,42
+2026-01-11,MF011,Mesa Verde,Austin,Round Rock,1787.0,1677.0,-0.0615,0.9546,103.0,96
+2026-01-18,MF011,Mesa Verde,Austin,Round Rock,1722.0,1694.0,-0.0162,0.985,101.8,94
+2026-01-25,MF011,Mesa Verde,Austin,Round Rock,1745.0,1693.0,-0.0294,0.9374,119.8,27
+2026-02-01,MF011,Mesa Verde,Austin,Round Rock,1745.0,1684.0,-0.0352,0.9691,110.4,82
+2026-02-08,MF011,Mesa Verde,Austin,Round Rock,1772.0,1699.0,-0.0413,0.9686,97.7,184
+2026-02-15,MF011,Mesa Verde,Austin,Round Rock,1663.0,1692.0,0.0175,0.9332,117.3,146
+2026-02-22,MF011,Mesa Verde,Austin,Round Rock,1690.0,1706.0,0.0095,0.985,114.9,34
+2026-03-01,MF011,Mesa Verde,Austin,Round Rock,1793.0,1700.0,-0.052,0.985,105.2,221
+2026-03-08,MF011,Mesa Verde,Austin,Round Rock,1806.0,1713.0,-0.0514,0.9734,104.1,138
+2026-03-15,MF011,Mesa Verde,Austin,Round Rock,1754.0,1699.0,-0.0316,0.9716,114.8,223
+2026-03-22,MF011,Mesa Verde,Austin,Round Rock,1673.0,1687.0,0.0085,0.985,113.0,243
+2026-03-29,MF011,Mesa Verde,Austin,Round Rock,1677.0,1714.0,0.0221,0.9704,118.2,252
+2026-04-05,MF011,Mesa Verde,Austin,Round Rock,1747.0,1731.0,-0.0092,0.9247,102.7,36
+2026-04-12,MF011,Mesa Verde,Austin,Round Rock,1763.0,1704.0,-0.0334,0.9499,100.7,38
+2026-04-19,MF011,Mesa Verde,Austin,Round Rock,1745.0,1708.0,-0.0211,0.925,118.7,60
+2026-01-04,MF012,The Alamo Lofts,Austin,South Austin,1962.0,1955.0,-0.0036,0.87,102.8,215
+2026-01-11,MF012,The Alamo Lofts,Austin,South Austin,2039.0,1957.0,-0.0403,0.8799,113.4,250
+2026-01-18,MF012,The Alamo Lofts,Austin,South Austin,2041.0,1958.0,-0.0409,0.9174,111.8,273
+2026-01-25,MF012,The Alamo Lofts,Austin,South Austin,1964.0,1950.0,-0.0069,0.9175,97.0,533
+2026-02-01,MF012,The Alamo Lofts,Austin,South Austin,2022.0,1975.0,-0.0232,0.9115,100.5,207
+2026-02-08,MF012,The Alamo Lofts,Austin,South Austin,1967.0,1960.0,-0.0033,0.8867,105.3,238
+2026-02-15,MF012,The Alamo Lofts,Austin,South Austin,2096.0,1983.0,-0.054,0.9266,113.6,89
+2026-02-22,MF012,The Alamo Lofts,Austin,South Austin,2087.0,1985.0,-0.049,0.8933,97.9,459
+2026-03-01,MF012,The Alamo Lofts,Austin,South Austin,2104.0,1956.0,-0.0701,0.9317,98.7,290
+2026-03-08,MF012,The Alamo Lofts,Austin,South Austin,2020.0,1972.0,-0.024,0.8926,113.6,425
+2026-03-15,MF012,The Alamo Lofts,Austin,South Austin,2114.0,1990.0,-0.0582,0.8721,114.0,378
+2026-03-22,MF012,The Alamo Lofts,Austin,South Austin,2116.0,1980.0,-0.0644,0.8915,95.4,315
+2026-03-29,MF012,The Alamo Lofts,Austin,South Austin,2158.0,1999.0,-0.0736,0.8842,96.4,432
+2026-04-05,MF012,The Alamo Lofts,Austin,South Austin,2127.0,2014.0,-0.0531,0.9071,97.4,414
+2026-04-12,MF012,The Alamo Lofts,Austin,South Austin,2145.0,2011.0,-0.0627,0.8916,97.2,393
+2026-04-19,MF012,The Alamo Lofts,Austin,South Austin,2145.0,1969.0,-0.0818,0.8472,113.5,310
+2026-01-04,MF013,Mariposa Commons,Irving,Las Colinas,2074.0,2039.0,-0.0168,0.9576,96.1,172
+2026-01-11,MF013,Mariposa Commons,Irving,Las Colinas,1990.0,2037.0,0.0237,0.9191,100.6,23
+2026-01-18,MF013,Mariposa Commons,Irving,Las Colinas,2040.0,2045.0,0.0022,0.9392,108.7,163
+2026-01-25,MF013,Mariposa Commons,Irving,Las Colinas,2135.0,2054.0,-0.0379,0.9615,95.9,108
+2026-02-01,MF013,Mariposa Commons,Irving,Las Colinas,2099.0,2064.0,-0.0167,0.9669,95.5,187
+2026-02-08,MF013,Mariposa Commons,Irving,Las Colinas,2025.0,2043.0,0.0089,0.9493,98.0,146
+2026-02-15,MF013,Mariposa Commons,Irving,Las Colinas,2014.0,2041.0,0.0132,0.9271,103.8,194
+2026-02-22,MF013,Mariposa Commons,Irving,Las Colinas,2006.0,2052.0,0.023,0.9666,93.1,224
+2026-03-01,MF013,Mariposa Commons,Irving,Las Colinas,2159.0,2057.0,-0.0472,0.985,106.9,211
+2026-03-08,MF013,Mariposa Commons,Irving,Las Colinas,2144.0,2076.0,-0.0315,0.9695,114.4,51
+2026-03-15,MF013,Mariposa Commons,Irving,Las Colinas,2082.0,2077.0,-0.0024,0.9759,108.1,43
+2026-03-22,MF013,Mariposa Commons,Irving,Las Colinas,2162.0,2050.0,-0.0521,0.9347,103.3,78
+2026-03-29,MF013,Mariposa Commons,Irving,Las Colinas,2138.0,2063.0,-0.0351,0.9445,101.5,154
+2026-04-05,MF013,Mariposa Commons,Irving,Las Colinas,2146.0,2095.0,-0.0235,0.9398,102.9,178
+2026-04-12,MF013,Mariposa Commons,Irving,Las Colinas,2160.0,2074.0,-0.04,0.9687,94.5,167
+2026-04-19,MF013,Mariposa Commons,Irving,Las Colinas,2173.0,2091.0,-0.0379,0.9614,95.1,140
+2026-01-04,MF014,Silverleaf,Dallas Fort Worth,Arlington,1818.0,1810.0,-0.0046,0.985,96.6,166
+2026-01-11,MF014,Silverleaf,Dallas Fort Worth,Arlington,1894.0,1820.0,-0.0389,0.9669,92.0,70
+2026-01-18,MF014,Silverleaf,Dallas Fort Worth,Arlington,1932.0,1818.0,-0.0588,0.9806,102.5,235
+2026-01-25,MF014,Silverleaf,Dallas Fort Worth,Arlington,1778.0,1816.0,0.0211,0.9812,91.7,150
+2026-02-01,MF014,Silverleaf,Dallas Fort Worth,Arlington,1839.0,1820.0,-0.0103,0.9526,105.1,184
+2026-02-08,MF014,Silverleaf,Dallas Fort Worth,Arlington,1811.0,1829.0,0.0101,0.985,91.5,128
+2026-02-15,MF014,Silverleaf,Dallas Fort Worth,Arlington,1778.0,1820.0,0.024,0.985,100.7,206
+2026-02-22,MF014,Silverleaf,Dallas Fort Worth,Arlington,1860.0,1844.0,-0.0083,0.9589,107.3,179
+2026-03-01,MF014,Silverleaf,Dallas Fort Worth,Arlington,1815.0,1830.0,0.0082,0.9271,107.4,112
+2026-03-08,MF014,Silverleaf,Dallas Fort Worth,Arlington,1798.0,1841.0,0.0234,0.9459,109.3,206
+2026-03-15,MF014,Silverleaf,Dallas Fort Worth,Arlington,1809.0,1843.0,0.0188,0.9725,87.5,192
+2026-03-22,MF014,Silverleaf,Dallas Fort Worth,Arlington,1788.0,1841.0,0.0298,0.9542,88.5,199
+2026-03-29,MF014,Silverleaf,Dallas Fort Worth,Arlington,1845.0,1861.0,0.0087,0.9531,105.3,224
+2026-04-05,MF014,Silverleaf,Dallas Fort Worth,Arlington,1843.0,1818.0,-0.0135,0.9457,89.0,70
+2026-04-12,MF014,Silverleaf,Dallas Fort Worth,Arlington,1917.0,1848.0,-0.0361,0.985,99.6,175
+2026-04-19,MF014,Silverleaf,Dallas Fort Worth,Arlington,1844.0,1842.0,-0.0013,0.938,102.9,57
+2026-01-04,MF015,Southtown Station,Houston,Katy,1811.0,1731.0,-0.0441,0.7339,100.7,161
+2026-01-11,MF015,Southtown Station,Houston,Katy,1820.0,1736.0,-0.0459,0.7657,108.8,334
+2026-01-18,MF015,Southtown Station,Houston,Katy,1867.0,1729.0,-0.0737,0.7844,106.6,362
+2026-01-25,MF015,Southtown Station,Houston,Katy,1820.0,1734.0,-0.0473,0.7222,92.8,498
+2026-02-01,MF015,Southtown Station,Houston,Katy,1876.0,1731.0,-0.0772,0.7534,103.0,464
+2026-02-08,MF015,Southtown Station,Houston,Katy,1874.0,1739.0,-0.0719,0.7515,92.3,247
+2026-02-15,MF015,Southtown Station,Houston,Katy,1785.0,1728.0,-0.032,0.7877,88.9,343
+2026-02-22,MF015,Southtown Station,Houston,Katy,1920.0,1749.0,-0.0892,0.7353,107.1,356
+2026-03-01,MF015,Southtown Station,Houston,Katy,1920.0,1755.0,-0.0861,0.784,97.7,149
+2026-03-08,MF015,Southtown Station,Houston,Katy,1873.0,1734.0,-0.0744,0.7599,96.5,100
+2026-03-15,MF015,Southtown Station,Houston,Katy,1929.0,1765.0,-0.0853,0.7592,108.2,268
+2026-03-22,MF015,Southtown Station,Houston,Katy,1918.0,1748.0,-0.0889,0.7548,96.4,207
+2026-03-29,MF015,Southtown Station,Houston,Katy,1886.0,1752.0,-0.0711,0.792,98.3,402
+2026-04-05,MF015,Southtown Station,Houston,Katy,1875.0,1783.0,-0.0488,0.727,93.1,117
+2026-04-12,MF015,Southtown Station,Houston,Katy,1938.0,1766.0,-0.0885,0.7349,88.8,356
+2026-04-19,MF015,Southtown Station,Houston,Katy,1927.0,1776.0,-0.0786,0.736,90.1,211
+2026-01-04,MF016,Avion Ridge,Phoenix,Mesa,1980.0,1870.0,-0.0556,0.985,111.0,230
+2026-01-11,MF016,Avion Ridge,Phoenix,Mesa,1825.0,1871.0,0.0249,0.9765,111.9,182
+2026-01-18,MF016,Avion Ridge,Phoenix,Mesa,1880.0,1864.0,-0.0086,0.9751,95.2,247
+2026-01-25,MF016,Avion Ridge,Phoenix,Mesa,1937.0,1870.0,-0.0344,0.9787,103.1,203
+2026-02-01,MF016,Avion Ridge,Phoenix,Mesa,1924.0,1866.0,-0.0301,0.9356,107.4,135
+2026-02-08,MF016,Avion Ridge,Phoenix,Mesa,1936.0,1892.0,-0.0227,0.95,101.6,77
+2026-02-15,MF016,Avion Ridge,Phoenix,Mesa,1839.0,1885.0,0.0249,0.9485,94.4,124
+2026-02-22,MF016,Avion Ridge,Phoenix,Mesa,1937.0,1892.0,-0.0236,0.9643,98.2,186
+2026-03-01,MF016,Avion Ridge,Phoenix,Mesa,2016.0,1901.0,-0.0567,0.9277,102.2,176
+2026-03-08,MF016,Avion Ridge,Phoenix,Mesa,1888.0,1879.0,-0.0047,0.9583,102.1,224
+2026-03-15,MF016,Avion Ridge,Phoenix,Mesa,1908.0,1880.0,-0.0151,0.9232,89.5,195
+2026-03-22,MF016,Avion Ridge,Phoenix,Mesa,1887.0,1906.0,0.0102,0.9399,104.1,233
+2026-03-29,MF016,Avion Ridge,Phoenix,Mesa,1903.0,1913.0,0.0049,0.9429,111.3,187
+2026-04-05,MF016,Avion Ridge,Phoenix,Mesa,1884.0,1889.0,0.003,0.9256,89.0,216
+2026-04-12,MF016,Avion Ridge,Phoenix,Mesa,1917.0,1903.0,-0.007,0.963,98.1,59
+2026-04-19,MF016,Avion Ridge,Phoenix,Mesa,1937.0,1914.0,-0.0124,0.9745,93.2,90
+2026-01-04,MF017,Hill Country Villas,San Antonio,Northwest,1700.0,1740.0,0.0237,0.9202,89.0,121
+2026-01-11,MF017,Hill Country Villas,San Antonio,Northwest,1728.0,1741.0,0.0077,0.9591,84.3,254
+2026-01-18,MF017,Hill Country Villas,San Antonio,Northwest,1717.0,1749.0,0.0189,0.9818,101.1,152
+2026-01-25,MF017,Hill Country Villas,San Antonio,Northwest,1732.0,1752.0,0.0116,0.9783,97.4,186
+2026-02-01,MF017,Hill Country Villas,San Antonio,Northwest,1715.0,1759.0,0.0254,0.9691,91.3,154
+2026-02-08,MF017,Hill Country Villas,San Antonio,Northwest,1784.0,1738.0,-0.0256,0.9722,91.4,132
+2026-02-15,MF017,Hill Country Villas,San Antonio,Northwest,1801.0,1746.0,-0.0306,0.9689,98.3,97
+2026-02-22,MF017,Hill Country Villas,San Antonio,Northwest,1856.0,1753.0,-0.0552,0.9275,84.7,46
+2026-03-01,MF017,Hill Country Villas,San Antonio,Northwest,1852.0,1743.0,-0.0586,0.9736,94.8,173
+2026-03-08,MF017,Hill Country Villas,San Antonio,Northwest,1728.0,1756.0,0.0162,0.939,92.9,66
+2026-03-15,MF017,Hill Country Villas,San Antonio,Northwest,1805.0,1762.0,-0.0243,0.9652,99.1,148
+2026-03-22,MF017,Hill Country Villas,San Antonio,Northwest,1813.0,1777.0,-0.0202,0.976,92.3,129
+2026-03-29,MF017,Hill Country Villas,San Antonio,Northwest,1869.0,1789.0,-0.0425,0.985,95.8,157
+2026-04-05,MF017,Hill Country Villas,San Antonio,Northwest,1762.0,1757.0,-0.0026,0.9515,95.2,236
+2026-04-12,MF017,Hill Country Villas,San Antonio,Northwest,1754.0,1790.0,0.0202,0.9714,101.2,224
+2026-04-19,MF017,Hill Country Villas,San Antonio,Northwest,1856.0,1788.0,-0.0365,0.9633,86.1,124
+2026-01-04,MF018,Catalina Pointe,San Antonio,Medical Center,1946.0,1810.0,-0.0699,0.7278,105.2,418
+2026-01-11,MF018,Catalina Pointe,San Antonio,Medical Center,2009.0,1808.0,-0.1001,0.7544,113.8,283
+2026-01-18,MF018,Catalina Pointe,San Antonio,Medical Center,1833.0,1793.0,-0.0217,0.7601,93.6,287
+2026-01-25,MF018,Catalina Pointe,San Antonio,Medical Center,1840.0,1801.0,-0.0215,0.7254,97.5,443
+2026-02-01,MF018,Catalina Pointe,San Antonio,Medical Center,1912.0,1830.0,-0.0429,0.8024,93.3,225
+2026-02-08,MF018,Catalina Pointe,San Antonio,Medical Center,1905.0,1823.0,-0.0433,0.791,96.4,530
+2026-02-15,MF018,Catalina Pointe,San Antonio,Medical Center,1908.0,1823.0,-0.0446,0.8015,105.1,368
+2026-02-22,MF018,Catalina Pointe,San Antonio,Medical Center,1966.0,1812.0,-0.0782,0.7644,94.1,538
+2026-03-01,MF018,Catalina Pointe,San Antonio,Medical Center,1919.0,1814.0,-0.0549,0.7845,101.2,510
+2026-03-08,MF018,Catalina Pointe,San Antonio,Medical Center,1909.0,1821.0,-0.0464,0.7994,102.0,311
+2026-03-15,MF018,Catalina Pointe,San Antonio,Medical Center,2043.0,1849.0,-0.0947,0.7928,92.5,506
+2026-03-22,MF018,Catalina Pointe,San Antonio,Medical Center,1973.0,1845.0,-0.065,0.7901,111.1,442
+2026-03-29,MF018,Catalina Pointe,San Antonio,Medical Center,1933.0,1836.0,-0.0505,0.7574,110.0,292
+2026-04-05,MF018,Catalina Pointe,San Antonio,Medical Center,1920.0,1814.0,-0.0554,0.7615,95.1,352
+2026-04-12,MF018,Catalina Pointe,San Antonio,Medical Center,1917.0,1832.0,-0.0442,0.7921,102.8,517
+2026-04-19,MF018,Catalina Pointe,San Antonio,Medical Center,1932.0,1820.0,-0.0579,0.7673,93.7,141

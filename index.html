@@ -6,49 +6,118 @@
   <title>Multifamily Revenue Optimization Simulator</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#0f766e;--bg:#eefdf8">
-  <main class="shell">
-    <header class="hero">
+<body>
+  <main class="app-shell">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Scorecard / multifamily revenue optimization</p>
-        <h1>Multifamily Revenue Optimization Simulator</h1>
+        <p class="eyebrow">Multifamily revenue management</p>
+        <h1>Revenue Optimization Simulator</h1>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy property asset-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
+      <div class="review-card">
+        <span>Weekly pricing review</span>
+        <strong id="reviewCount">Loading</strong>
+        <small>AIRM-style approvals, lease-up watchlist, and NOI variance triage</small>
+      </div>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>property assets</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
-    </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Metric ownership</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>property asset</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>KPI drift</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Roadmap opportunity</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
+
+    <nav class="tabs" aria-label="Analysis surfaces">
+      <button class="active" type="button" data-view="portfolio">Portfolio</button>
+      <button type="button" data-view="pricing">Pricing</button>
+      <button type="button" data-view="watchlist">Forecast</button>
+    </nav>
+
+    <section class="metric-grid" id="metricGrid" aria-label="Portfolio metrics"></section>
+
+    <section class="view active" id="portfolioView" aria-label="Portfolio cockpit">
+      <div class="split-grid">
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Market and asset mix</p>
+              <h2>Where the portfolio needs attention</h2>
+            </div>
+          </div>
+          <div class="market-list" id="marketList"></div>
+        </article>
+        <article class="panel">
+          <p class="eyebrow">Decision model</p>
+          <h2>How the review prioritizes action</h2>
+          <div class="logic-stack">
+            <div>
+              <strong>Pricing pressure</strong>
+              <span>Comp rent position, occupancy gap, traffic trend, concessions, and 60 day exposure.</span>
+            </div>
+            <div>
+              <strong>Forecast risk</strong>
+              <span>Negative NOI variance, falling traffic, high exposure, and target occupancy gap.</span>
+            </div>
+            <div>
+              <strong>Operating lane</strong>
+              <span>Approve, regional review, or hold for pricing call based on confidence and absorption risk.</span>
+            </div>
+          </div>
+        </article>
+      </div>
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">Asset strategy</p>
+            <h2>Stabilized, lease-up, and turnaround signals</h2>
+          </div>
+        </div>
+        <div class="asset-grid" id="assetGrid"></div>
       </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
+    </section>
+
+    <section class="view" id="pricingView" aria-label="Pricing approval simulator">
+      <article class="panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">AIRM-style approval queue</p>
+            <h2>Recommended rent moves by asset</h2>
+          </div>
+          <select id="laneFilter" aria-label="Filter approval lane">
+            <option value="all">All lanes</option>
+            <option value="Approve">Approve</option>
+            <option value="Regional review">Regional review</option>
+            <option value="Hold for pricing call">Hold for pricing call</option>
+          </select>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Asset</th>
+                <th>Market</th>
+                <th>Current</th>
+                <th>Recommended</th>
+                <th>Change</th>
+                <th>Risk</th>
+                <th>Lane</th>
+                <th>Rationale</th>
+              </tr>
+            </thead>
+            <tbody id="pricingRows"></tbody>
+          </table>
+        </div>
       </article>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value property asset segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="view" id="watchlistView" aria-label="Lease-up and forecast watchlist">
+      <div class="split-grid">
+        <article class="panel">
+          <p class="eyebrow">Early warning list</p>
+          <h2>Assets needing regional action</h2>
+          <div class="watchlist" id="watchlistCards"></div>
+        </article>
+        <article class="panel">
+          <p class="eyebrow">Forecast variance</p>
+          <h2>NOI correction lanes</h2>
+          <div class="variance-bars" id="varianceBars"></div>
+        </article>
+      </div>
     </section>
   </main>
+  <script src="src/app.js"></script>
 </body>
 </html>

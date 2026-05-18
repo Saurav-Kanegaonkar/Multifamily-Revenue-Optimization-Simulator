@@ -1,0 +1,19 @@
+property_id,property_name,market,asset_stage,occupancy_gap_to_target,leasing_velocity_4wk,traffic_trend_pct,noi_variance_pct,exposure_next_60,concession_pct,priority_score,corrective_action
+MF005,Live Oak Crossing,Irving,Lease-up,0.089,23.0,-0.1264,-0.2858,49,0.0432,72.3,"Run regional pricing review with comps, concessions, and weekly traffic source checks."
+MF008,Bluebonnet Flats,Phoenix,Lease-up,0.0704,12.8,0.0016,-0.2794,27,0.0488,66.5,"Run regional pricing review with comps, concessions, and weekly traffic source checks."
+MF018,Catalina Pointe,San Antonio,Lease-up,0.0834,17.8,0.0138,-0.2925,21,0.051,65.3,"Run regional pricing review with comps, concessions, and weekly traffic source checks."
+MF015,Southtown Station,Houston,Lease-up,0.0784,27.8,-0.049,-0.2723,46,0.0463,64.5,Tune concessions and lead response by floor plan before the next lease-up review.
+MF002,Mission Ridge,San Antonio,Lease-up,0.0719,13.5,0.1303,-0.263,14,0.0425,52.8,Tune concessions and lead response by floor plan before the next lease-up review.
+MF009,Juniper Yard,San Antonio,Turnaround,0.0438,9.2,0.1741,-0.1637,27,0.0311,37.4,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF006,Riverbend,Dallas Fort Worth,Turnaround,0.0527,16.5,0.2737,-0.1537,48,0.0243,35.4,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF012,The Alamo Lofts,Austin,Turnaround,0.0424,11.5,0.2123,-0.1576,25,0.0315,34.3,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF003,Parkline,Austin,Turnaround,0.0367,12.0,0.192,-0.1469,20,0.0296,30.3,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF017,Hill Country Villas,San Antonio,Stabilized,-0.0079,4.0,-0.309,-0.0353,41,0.0013,29.5,Keep in normal weekly review and watch exposure risk.
+MF007,Canyon Commons,Houston,Stabilized,0.0213,5.0,-0.0742,-0.0701,21,0.0022,25.9,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF001,Cedar Vista,San Antonio,Stabilized,-0.0003,7.5,-0.0321,-0.0519,45,0.0033,19.5,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF016,Avion Ridge,Phoenix,Stabilized,-0.001,7.8,-0.0029,-0.0481,49,0.0082,19.5,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF014,Silverleaf,Dallas Fort Worth,Stabilized,0.0229,9.8,0.158,-0.0819,40,0.0051,18.1,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF011,Mesa Verde,Austin,Stabilized,-0.0049,8.5,0.0592,-0.0536,41,0.0105,15.8,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF013,Mariposa Commons,Irving,Stabilized,0.0188,7.8,0.3077,-0.071,44,0.0114,15.7,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF004,Alta Quarry,Austin,Stabilized,0.0234,8.0,0.3693,-0.0651,21,0.0023,8.8,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."
+MF010,Lantana Square,San Antonio,Stabilized,0.0143,8.2,0.4804,-0.078,39,0.0127,8.8,"Escalate NOI variance and isolate rent, vacancy, and concession drivers."

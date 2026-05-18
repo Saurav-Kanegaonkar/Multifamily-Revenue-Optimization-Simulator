@@ -1,0 +1,19 @@
+property_id,property_name,requested_by,approval_lane,decision_owner,pricing_system_context,reason_code
+MF001,Cedar Vista,Central Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Velocity and exposure
+MF002,Mission Ridge,South Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF003,Parkline,Southwest Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF004,Alta Quarry,North Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Velocity and exposure
+MF005,Live Oak Crossing,Central Region,Hold for pricing call,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF006,Riverbend,South Region,Approve,Revenue management,AIRM style recommendation review,Comp position
+MF007,Canyon Commons,Southwest Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Velocity and exposure
+MF008,Bluebonnet Flats,North Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF009,Juniper Yard,Central Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF010,Lantana Square,South Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF011,Mesa Verde,Southwest Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Velocity and exposure
+MF012,The Alamo Lofts,North Region,Approve,Revenue management,AIRM style recommendation review,Comp position
+MF013,Mariposa Commons,Central Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF014,Silverleaf,South Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Velocity and exposure
+MF015,Southtown Station,Southwest Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF016,Avion Ridge,North Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Velocity and exposure
+MF017,Hill Country Villas,Central Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
+MF018,Catalina Pointe,South Region,Regional review,Revenue and regional operations,AIRM style recommendation review,Comp position
